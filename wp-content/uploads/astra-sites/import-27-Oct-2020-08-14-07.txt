@@ -1,0 +1,229 @@
+
+Inserted WP Form 103
+Imported Customizer Settings {"astra-settings":{"blog-single-post-structure":["single-image","single-title-meta"],"blog-single-width":"default","blog-single-max-width":1200,"blog-single-meta":["comments","category","author"],"blog-post-structure":["image","title-meta"],"blog-width":"default","blog-max-width":1200,"blog-post-content":"excerpt","blog-meta":["comments","category","author"],"text-color":"#3a3a3a","link-color":"#434343","theme-color":"#434343","link-h-color":"#602bb7","footer-bg-obj":{"background-color":"#e8e8e8","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-color":"#000000","footer-link-color":"#434343","footer-link-h-color":"#602bb7","footer-adv-bg-obj":{"background-color":"#f3f3f4","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"footer-adv-text-color":"#434343","footer-adv-link-color":"#434343","footer-adv-link-h-color":"#602bb7","footer-adv-wgt-title-color":"#000000","button-color":"","button-h-color":"","button-bg-color":"","button-bg-h-color":"#2d2d2d","theme-button-padding":{"desktop":{"top":10,"right":40,"bottom":10,"left":40},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"button-radius":0,"theme-button-border-group-border-size":{"top":"","right":"","bottom":"","left":""},"footer-sml-layout":"footer-sml-layout-2","footer-sml-section-1":"custom","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title] | <a href=\"#\">Credits<\/a>","footer-sml-section-2":"custom","footer-sml-section-2-credit":"Powered by [site_title] ","footer-sml-dist-equal-align":true,"footer-sml-divider":0,"footer-sml-divider-color":"#7a7a7a","footer-layout-width":"content","ast-header-retina-logo":"https:\/\/websitedemos.net\/brandstore-05\/wp-content\/uploads\/sites\/313\/2017\/12\/logo@2x-free-img.png","ast-header-logo-width":"","ast-header-responsive-logo-width":{"desktop":"","tablet":"","mobile":""},"display-site-title":false,"display-site-tagline":0,"logo-title-inline":0,"disable-primary-nav":false,"header-layouts":"header-main-layout-1","header-main-rt-section":"woocommerce","header-display-outside-menu":false,"header-main-rt-section-html":"<button>Contact Us<\/button>","header-main-rt-section-button-text":"Button","header-main-rt-section-button-link":"https:\/\/www.wpastra.com","header-main-rt-section-button-link-option":{"url":"https:\/\/www.wpastra.com","new_tab":false,"link_rel":""},"header-main-rt-section-button-style":"theme-button","header-main-rt-section-button-text-color":"","header-main-rt-section-button-back-color":"","header-main-rt-section-button-text-h-color":"","header-main-rt-section-button-back-h-color":"","header-main-rt-section-button-padding":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""}},"header-main-rt-section-button-border-size":{"top":"","right":"","bottom":"","left":""},"header-main-sep":0,"header-main-sep-color":"","header-main-layout-width":"content","primary-submenu-border":{"top":"1","bottom":"1","left":"1","right":"1"},"primary-submenu-item-border":1,"primary-submenu-b-color":"#eaeaea","primary-submenu-item-b-color":"#eaeaea","primary-header-button-font-family":"inherit","primary-header-button-font-weight":"inherit","primary-header-button-font-size":{"desktop":"","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"primary-header-button-text-transform":"","primary-header-button-line-height":1,"primary-header-button-letter-spacing":"","header-main-menu-label":"","header-main-menu-align":"inline","header-main-submenu-container-animation":"","mobile-header-breakpoint":"","mobile-header-logo":"","mobile-header-logo-width":"","site-layout":"ast-full-width-layout","site-content-width":1200,"site-layout-outside-bg-obj-responsive":{"desktop":{"background-color":"#f9f9f9"},"tablet":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"}},"site-content-layout":"boxed-container","single-page-content-layout":"default","single-post-content-layout":"default","archive-post-content-layout":"default","body-font-family":"'Nunito', sans-serif","body-font-variant":"400","body-font-weight":"400","font-size-body":{"desktop":"15","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"body-line-height":"","para-margin-bottom":"","body-text-transform":"","headings-font-family":"'Playfair Display', serif","headings-font-weight":"400","headings-text-transform":"","headings-line-height":"","font-size-site-title":{"desktop":35,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-site-tagline":{"desktop":15,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-entry-title":{"desktop":30,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-archive-summary-title":{"desktop":40,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-page-title":{"desktop":30,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h1":{"desktop":48,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":42,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":30,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h4":{"desktop":20,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":18,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":15,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"site-sidebar-layout":"no-sidebar","site-sidebar-width":30,"single-page-sidebar-layout":"default","single-post-sidebar-layout":"default","archive-post-sidebar-layout":"default","footer-adv":"layout-4","footer-adv-border-width":"","footer-adv-border-color":"#7a7a7a","mobile-header-toggle-btn-style":"fill","hide-custom-menu-mobile":1,"mobile-header-toggle-target":"icon","woocommerce-content-layout":"default","woocommerce-sidebar-layout":"left-sidebar","single-product-sidebar-layout":"default","shop-grids":{"desktop":"3","tablet":2,"mobile":1},"shop-no-of-products":"12","shop-product-structure":["title","category","price","ratings"],"shop-hover-style":"swap","single-product-breadcrumb-disable":false,"enable-cart-upsells":true,"shop-archive-width":"default","shop-archive-max-width":1200,"transparent-header-logo":"","transparent-header-retina-logo":"","different-transparent-logo":0,"different-transparent-retina-logo":0,"transparent-header-logo-width":{"desktop":"","tablet":"","mobile":""},"transparent-header-enable":0,"transparent-header-disable-archive":1,"transparent-header-disable-latest-posts-index":1,"transparent-header-on-devices":"both","transparent-header-main-sep":0,"transparent-header-main-sep-color":"","transparent-header-bg-color":"","transparent-header-color-site-title":"","transparent-header-color-h-site-title":"","transparent-menu-bg-color":"","transparent-menu-color":"","transparent-menu-h-color":"","transparent-submenu-bg-color":"","transparent-submenu-color":"","transparent-submenu-h-color":"","transparent-header-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-h-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-font-family":"inherit","breadcrumb-font-weight":"inherit","breadcrumb-text-transform":"","breadcrumb-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-separator-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-bg-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-spacing":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"h1-color":"","h2-color":"","h3-color":"","h4-color":"","h5-color":"","h6-color":"","font-family-h1":"inherit","font-weight-h1":"inherit","text-transform-h1":"","line-height-h1":"","font-family-h2":"inherit","font-weight-h2":"inherit","text-transform-h2":"","line-height-h2":"","font-family-h3":"inherit","font-weight-h3":"inherit","text-transform-h3":"","line-height-h3":"","font-weight-button":"inherit","font-family-button":"inherit","font-size-button":{"desktop":"","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"text-transform-button":"","theme-btn-line-height":1,"theme-btn-letter-spacing":"","header-main-rt-section-search-box-type":"slide-search","below-header-section-2-search-box-type":"slide-search","below-header-section-1-search-box-type":"slide-search","above-header-section-1-search-box-type":"slide-search","above-header-section-2-search-box-type":"slide-search","astra-addon-auto-version":"2.6.4","theme-auto-version":"2.5.5","button-v-padding":10,"button-h-padding":40,"primary-submenu-border-divider":"","header-main-menu-label-divider":"","mobile-header-toggle-btn-style-color":"","mobile-header-toggle-btn-border-radius":"","mobile-header-more-feature-divider":"","mobile-header-more-feature-description":"","different-retina-logo":"1","different-mobile-logo":false,"ast-site-logo-divider":"","ast-site-icon-divider":"","ast-styling-section-blog-width":"","ast-blog-more-feature-divider":"","ast-blog-more-feature-description":"","ast-styling-section-single-blog-layouts":"","ast-blog-single-more-feature-divider":"","ast-blog-single-more-feature-description":"","single-page-sidebar-layout-divider":"","divider-section-sidebar-width":"","site-sidebar-width-description":"","site-content-layout-divider":"","site-layout-outside-bg-obj":{"background-color":"#f9f9f9"},"ast-container-more-feature-divider":"page-builder","ast-container-more-feature-description":"","section-ast-small-footer-layout-info":"","section-ast-small-footer-typography":"","ast-footer-widget-more-feature-divider":"","ast-footer-widget-more-feature-description":"","divider-outside-bg-color":"","divider-footer-image":"","footer-adv-background-divider":"","divider-section-archive-summary-box-typo":"","divider-section-archive-typo-archive-title":"","ast-blog-typography-more-feature-divider":"","ast-blog-typography-more-feature-description":"","divider-base-typo":"","divider-headings-typo":"","headings-font-variant":"400","divider-section-h1":"","divider-section-h2":"","divider-section-h3":"","divider-section-h4":"","divider-section-h5":"","divider-section-h6":"","ast-content-typography-more-feature-divider":"","ast-content-typography-more-feature-description":"","divider-section-header-typo-title":"","divider-section-header-typo-tagline":"","ast-header-typography-more-feature-divider":"","ast-header-typography-more-feature-description":"","divider-section-header-single-title":"","ast-sngle-blog-typography-more-feature-divider":"","ast-sngle-blog-typography-more-feature-description":"","single-product-sidebar-layout-divider":"","shop-archive-width-divider":"","wc-header-cart-header-colors":false,"shop-quick-view-stick-cart":true,"_astra_pb_compatibility_completed":true,"submenu-open-below-header":false,"is_addon_queue_running":true,"is_astra_addon_queue_running":false,"ele-default-color-typo-setting-comp":false,"is_theme_queue_running":false,"gtn-full-wide-image-grp-css":false,"gtn-full-wide-grp-cover-css":false,"footer-adv-bg-obj-responsive":{"desktop":{"background-color":"#f3f3f4","background-image":"","background-repeat":"no-repeat","background-position":"center center","background-size":"cover","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"}},"footer-bg-obj-responsive":{"desktop":{"background-color":"#e8e8e8","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"tablet":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"mobile":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"}}},"custom-css":".sidebar-main .count {\n\tfloat: right;\n}"}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/313/wxr.xml
+Inserted - Term 87 - {"term_id":87,"name":"Accessories","slug":"accessories","term_group":0,"term_taxonomy_id":87,"taxonomy":"product_cat","description":"\n\n\nNam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.\n\n\n","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 88 - {"term_id":88,"name":"Jeans","slug":"jeans-men","term_group":0,"term_taxonomy_id":88,"taxonomy":"product_cat","description":"\n\n\nNam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.\n\n\n","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 89 - {"term_id":89,"name":"Men's Jeans","slug":"mens-jeans","term_group":0,"term_taxonomy_id":89,"taxonomy":"product_cat","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 90 - {"term_id":90,"name":"Men's Shirts","slug":"mens-shirts","term_group":0,"term_taxonomy_id":90,"taxonomy":"product_cat","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 91 - {"term_id":91,"name":"Men's Shoes","slug":"mens-shoes","term_group":0,"term_taxonomy_id":91,"taxonomy":"product_cat","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 92 - {"term_id":92,"name":"Purses And Handbags","slug":"purses-and-handbags","term_group":0,"term_taxonomy_id":92,"taxonomy":"product_cat","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 93 - {"term_id":93,"name":"Shirts","slug":"shirts-men","term_group":0,"term_taxonomy_id":93,"taxonomy":"product_cat","description":"\n\n\nNam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.\n\n\n","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 94 - {"term_id":94,"name":"Shirts","slug":"shirts-women","term_group":0,"term_taxonomy_id":94,"taxonomy":"product_cat","description":"\n\n\nNam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.\n\n\n","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 95 - {"term_id":95,"name":"Shoes","slug":"shoes-men","term_group":0,"term_taxonomy_id":95,"taxonomy":"product_cat","description":"\n\n\nNam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.\n\n\n","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 96 - {"term_id":96,"name":"Women","slug":"women","term_group":0,"term_taxonomy_id":96,"taxonomy":"product_cat","description":"\n\n\nNam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.\n\n\n","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 97 - {"term_id":97,"name":"Women's Jeans","slug":"womens-jeans","term_group":0,"term_taxonomy_id":97,"taxonomy":"product_cat","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 98 - {"term_id":98,"name":"Women's Shirts","slug":"womens-shirts","term_group":0,"term_taxonomy_id":98,"taxonomy":"product_cat","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 99 - {"term_id":99,"name":"For Her","slug":"for-her","term_group":0,"term_taxonomy_id":99,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 100 - {"term_id":100,"name":"For Him","slug":"for-him","term_group":0,"term_taxonomy_id":100,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 101 - {"term_id":101,"name":"Main Menu","slug":"main-menu","term_group":0,"term_taxonomy_id":101,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 102 - {"term_id":102,"name":"Quick Links","slug":"quick-links","term_group":0,"term_taxonomy_id":102,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 108 - attachment - favicon-free-img
+Inserted - Post 109 - attachment - logo@2x-free-img
+Inserted - Post 110 - attachment - logo-free-img
+Inserted - Post 111 - attachment - mens-fashion-free-img
+Inserted - Post 112 - attachment - womens-fashion-free-img
+Inserted - Post 69 - attachment - shoes-fashion-free-omg
+Inserted - Post 113 - attachment - accessories-fashion-free-img
+Inserted - Post 96 - attachment - lemon-bag-1-free-img
+Inserted - Post 114 - attachment - lemon-bag-2-free-img
+Inserted - Post 115 - attachment - lemon-bag-3-free-img
+Inserted - Post 116 - attachment - bright-purse-1-free-img
+Inserted - Post 117 - attachment - bright-purse-2-free-img
+Inserted - Post 118 - attachment - bright-purse-3-free-img
+Inserted - Post 119 - attachment - black-over-the-shoulder-bag-1-free-img
+Inserted - Post 120 - attachment - black-over-the-shoulder-bag-free-img
+Inserted - Post 121 - attachment - light-brown-clutch-1-free-img
+Inserted - Post 122 - attachment - light-brown-clutch-2-free-img
+Inserted - Post 123 - attachment - blue-wind-breaker-1-free-img
+Inserted - Post 124 - attachment - blue-wind-breaker-2-free-img
+Inserted - Post 125 - attachment - aqua-wind-breaker-1-free-img
+Inserted - Post 126 - attachment - aqua-wind-breaker-2-free-img
+Inserted - Post 127 - attachment - aqua-wind-breaker-3-free-img
+Inserted - Post 128 - attachment - green-wind-breaker-1-free-img
+Inserted - Post 129 - attachment - green-wind-breaker-2-free-img
+Inserted - Post 130 - attachment - aqua-tshirt-free-img
+Inserted - Post 131 - attachment - blue-tshirt-free-img
+Inserted - Post 132 - attachment - dark-green-tshirt-free-img
+Inserted - Post 133 - attachment - dark-purple-tshirt-free-img
+Inserted - Post 134 - attachment - green-tshirt-free-img
+Inserted - Post 135 - attachment - purple-tshirt-free-img
+Inserted - Post 158 - attachment - buddha-bracelet-side-free-img
+Inserted - Post 159 - attachment - buddha-bracelet-top-free-img
+Inserted - Post 165 - attachment - anchor-bracelet-black-free-img
+Inserted - Post 166 - attachment - anchor-bracelet-blue-free-img
+Inserted - Post 167 - attachment - anchor-bracelet-brown-free-img
+Inserted - Post 168 - attachment - anchor-bracelet-red-free-img
+Inserted - Post 170 - attachment - boho-bangle-bracelet-side-free-img
+Inserted - Post 171 - attachment - boho-bangle-bracelet-top-free-img
+Inserted - Post 192 - attachment - about-banner-free-img
+Inserted - Post 195 - attachment - black-sleevless-1-free-img
+Inserted - Post 196 - attachment - black-sleevless-2-free-img
+Inserted - Post 197 - attachment - blue-sleev-tshirt-1-free-img
+Inserted - Post 198 - attachment - blue-sleev-tshirt-2-free-img
+Inserted - Post 199 - attachment - brown-basic-top-1-free-img
+Inserted - Post 200 - attachment - brown-basic-top-2-free-img
+Inserted - Post 201 - attachment - white-basic-top-1-free-img
+Inserted - Post 202 - attachment - white-basic-top-2-free-img
+Inserted - Post 203 - attachment - white-sleevless-1-free-img
+Inserted - Post 204 - attachment - white-sleevless-2-free-img
+Inserted - Post 205 - attachment - white-top-1-free-img
+Inserted - Post 206 - attachment - white-top-2-free-img
+Inserted - Post 207 - attachment - yellow-basic-top-1-free-img
+Inserted - Post 208 - attachment - yellow-basic-top-2-free-img
+Inserted - Post 230 - attachment - blue-basic-jeans-1-free-img
+Inserted - Post 231 - attachment - blue-basic-jeans-2-free-img
+Inserted - Post 232 - attachment - blue-jeans-1-free-img
+Inserted - Post 233 - attachment - blue-jeans-2-free-img
+Inserted - Post 234 - attachment - gray-basic-jeans-1-free-img
+Inserted - Post 235 - attachment - gray-basic-jeans-2-free-img
+Inserted - Post 236 - attachment - torn-jeans-1-free-img
+Inserted - Post 237 - attachment - torn-jeans-2-free-img
+Inserted - Post 313 - attachment - spring-jacket-1-free-img
+Inserted - Post 314 - attachment - spring-jacket-2-free-img
+Inserted - Post 317 - attachment - black-shoes-green-led-1-free-img
+Inserted - Post 318 - attachment - black-shoes-green-led-2-free-img
+Inserted - Post 320 - attachment - brown-blazer-jacket-1-free-img
+Inserted - Post 321 - attachment - brown-blazer-jacket-2-free-img
+Inserted - Post 322 - attachment - brown-blazer-jacket-3-free-img
+Inserted - Post 325 - attachment - basic-blue-jeans-1-free-img
+Inserted - Post 326 - attachment - basic-blue-jeans-2-free-img
+Inserted - Post 327 - attachment - black-washed-1-free-img
+Inserted - Post 328 - attachment - black-washed-2-free-img
+Inserted - Post 329 - attachment - blue-denim-1-free-img
+Inserted - Post 330 - attachment - blue-denim-2-free-img
+Inserted - Post 331 - attachment - torn-jeans-1-free-img
+Inserted - Post 332 - attachment - torn-jeans-2-free-img
+Inserted - Post 333 - attachment - torn-jeans-3-free-img
+Inserted - Post 363 - attachment - blue-men-shoes-1-free-img
+Inserted - Post 364 - attachment - blue-men-shoes-2-free-img
+Inserted - Post 365 - attachment - brown-men-shoes-1-free-img
+Inserted - Post 366 - attachment - logo@2x-free-img
+Inserted - Post 372 - attachment - brown-men-shoes-2-free-img
+Inserted - Post 373 - attachment - gray-men-shoes-1-free-img
+Inserted - Post 374 - attachment - gray-men-shoes-2-free-img
+Inserted - Post 375 - attachment - white-shoes-with-led-1-free-img
+Inserted - Post 376 - attachment - white-shoes-with-led-2-free-img
+Inserted - Post 382 - attachment - home-banner1-free-img
+Inserted - Post 413 - attachment - brandstore-astra-facebook-yoast-free-img
+Inserted - Post 427 - attachment - about-banner-free-img
+Inserted - Post 428 - attachment - black-over-the-shoulder-bag-1-free-img
+Inserted - Post 429 - attachment - logo-free-img
+Inserted - Post 544 - attachment - woocommerce-placeholder
+Inserted - Post 632 - attachment - banner-01
+Inserted - Post 637 - attachment - brandstore-men-fashion
+Inserted - Post 639 - attachment - brandstore-women-fashion
+Inserted - Post 642 - attachment - brandstore-shoes
+Inserted - Post 645 - attachment - brandstore-accessories
+Inserted - Post 674 - attachment - brandstore-01
+Inserted - Post 705 - attachment - product-bag3.jpg
+Inserted - Post 706 - attachment - product-bag4.jpg
+Inserted - Post 707 - attachment - product-bag2.jpg
+Inserted - Post 708 - attachment - product-bag1.jpg
+Inserted - Post 709 - attachment - product-tshirt9.jpg
+Inserted - Post 710 - attachment - product-tshirt8.jpg
+Inserted - Post 711 - attachment - product-accessory3.jpg
+Inserted - Post 712 - attachment - product-accessory2.jpg
+Inserted - Post 713 - attachment - product-accessory1.jpg
+Inserted - Post 714 - attachment - product-tshirt6.jpg
+Inserted - Post 715 - attachment - product-tshirt4.jpg
+Inserted - Post 716 - attachment - product-tshirt3.jpg
+Inserted - Post 717 - attachment - product-tshirt2.jpg
+Inserted - Post 718 - attachment - product-tshirt1.jpg
+Inserted - Post 719 - attachment - product-w-jeans2.jpg
+Inserted - Post 720 - attachment - product-w-jeans1.jpg
+Inserted - Post 721 - attachment - shoe8.jpg
+Inserted - Post 722 - attachment - product-m-jeans3.jpg
+Inserted - Post 723 - attachment - product-m-jeans2.jpg
+Inserted - Post 724 - attachment - product-m-jeans4.jpg
+Inserted - Post 725 - attachment - product-m-jeans1.jpg
+Inserted - Post 726 - attachment - shoe5.jpg
+Inserted - Post 6 - custom_css - astra
+Inserted - Post 727 - custom_css - astra
+Inserted - Post 431 - nav_menu_item - 
+Inserted - Post 470 - nav_menu_item - Home
+Inserted - Post 472 - nav_menu_item - My Account
+Inserted - Post 473 - nav_menu_item - 
+Inserted - Post 474 - nav_menu_item - 
+Inserted - Post 476 - nav_menu_item - About Us
+Inserted - Post 477 - nav_menu_item - 
+Inserted - Post 478 - custom_css - astra
+Inserted - Post 484 - nav_menu_item - 
+Inserted - Post 490 - nav_menu_item - 
+Inserted - Post 493 - nav_menu_item - 
+Inserted - Post 495 - nav_menu_item - 
+Inserted - Post 497 - nav_menu_item - 
+Inserted - Post 728 - attachment - shoe3.jpg
+Inserted - Post 729 - attachment - shoe4.jpg
+Inserted - Post 730 - attachment - shoe7.jpg
+Inserted - Post 38 - page - Store
+Inserted - Post 731 - page - Cart
+Inserted - Post 732 - page - Checkout
+Inserted - Post 733 - page - My account
+Inserted - Post 448 - page - Homepage
+Inserted - Post 465 - page - About
+Inserted - Post 481 - nav_menu_item - 
+Inserted - Post 496 - nav_menu_item - 
+Inserted - Post 499 - nav_menu_item - 
+Inserted - Post 503 - nav_menu_item - 
+Inserted - Post 504 - nav_menu_item - 
+Inserted - Post 505 - nav_menu_item - 
+Inserted - Post 507 - nav_menu_item - 
+Inserted - Post 515 - nav_menu_item - 
+Inserted - Post 516 - nav_menu_item - 
+Inserted - Post 517 - nav_menu_item - 
+Inserted - Post 519 - nav_menu_item - 
+Inserted - Post 521 - nav_menu_item - 
+Inserted - Post 522 - nav_menu_item - 
+Inserted - Post 523 - nav_menu_item - 
+Inserted - Post 468 - page - Contact Us
+Inserted - Post 680 - product - Red Bag
+Inserted - Post 681 - product - Golden Bag With Chain
+Inserted - Post 682 - product - Black Over-the-shoulder Handbag
+Inserted - Post 683 - product - Light Brown Bag
+Inserted - Post 684 - product - DNK Blue Tshirt
+Inserted - Post 685 - product - DNK Orange Tshirt
+Inserted - Post 686 - product - Buddha Bracelet
+Inserted - Post 687 - product - Anchor Bracelet
+Inserted - Post 688 - product - Boho Bangle Bracelet
+Inserted - Post 689 - product - White Underground Tshirt
+Inserted - Post 690 - product - Oranges Pattern Tshirt
+Inserted - Post 691 - product - Flamingo Pattern Tshirt
+Inserted - Post 692 - product - Grey Pattern Tshirt
+Inserted - Post 693 - product - Lemon Pattern Tshirt
+Inserted - Post 694 - product - Basic Blue Jeans
+Inserted - Post 695 - product - Blue Denim Shorts
+Inserted - Post 696 - product - DNK Yellow Sports Shoes
+Inserted - Post 697 - product - Faint Blue Jeans
+Inserted - Post 698 - product - Denim Blue Jeans
+Inserted - Post 699 - product - Dark Grey Jeans
+Inserted - Post 700 - product - Dark Brown Jeans
+Inserted - Post 701 - product - DNK Blue Sport Shoes
+Inserted - Post 702 - product - DNK Orange Sports Shoes
+Inserted - Post 703 - product - DNK Green Sports Shoes
+Inserted - Post 704 - product - DNK Black Shoes
+Imported - Site Options {"woocommerce_product_attributes":{"id:1":{"attribute_id":"1","attribute_name":"color","attribute_label":"color","attribute_type":"select","attribute_orderby":"menu_order","attribute_public":0},"id:2":{"attribute_id":"2","attribute_name":"size","attribute_label":"size","attribute_type":"select","attribute_orderby":"menu_order","attribute_public":0}},"woocommerce_product_cat_list":{"20":{"term_id":20,"name":"Uncategorized","slug":"uncategorized","description":""},"43":{"term_id":43,"name":"Accessories","slug":"accessories","description":"\n\n\nNam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.\n\n\n"},"47":{"term_id":47,"name":"Jeans","slug":"jeans-men","description":"\n\n\nNam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.\n\n\n"},"49":{"term_id":49,"name":"Men","slug":"men","description":"\n\n\nNam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.\n\n\n"},"50":{"term_id":50,"name":"Purses And Handbags","slug":"purses-and-handbags","description":""},"51":{"term_id":51,"name":"Shirts","slug":"shirts-men","description":"\n\n\nNam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.\n\n\n"},"52":{"term_id":52,"name":"Shirts","slug":"shirts-women","description":"\n\n\nNam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.\n\n\n"},"53":{"term_id":53,"name":"Shoes","slug":"shoes-men","description":"\n\n\nNam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.\n\n\n"},"55":{"term_id":55,"name":"Women","slug":"women","description":"\n\n\nNam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit sed ut.\n\n\n"},"86":{"term_id":86,"name":"Men's Shirts","slug":"mens-shirts","description":""},"87":{"term_id":87,"name":"Women's Shirts","slug":"womens-shirts","description":""},"88":{"term_id":88,"name":"Women's Jeans","slug":"womens-jeans","description":""},"89":{"term_id":89,"name":"Men's Shoes","slug":"mens-shoes","description":""},"90":{"term_id":90,"name":"Men's Jeans","slug":"mens-jeans","description":""}},"woocommerce_product_cat":[{"slug":"uncategorized","thumbnail_id":"","thumbnail_src":""},{"slug":"accessories","thumbnail_id":"427","thumbnail_src":"https:\/\/websitedemos.net\/brandstore-05\/wp-content\/uploads\/sites\/313\/2018\/08\/about-banner-free-img.jpg"},{"slug":"jeans-men","thumbnail_id":"","thumbnail_src":""},{"slug":"men","thumbnail_id":"","thumbnail_src":""},{"slug":"mens-jeans","thumbnail_id":"","thumbnail_src":""},{"slug":"mens-shirts","thumbnail_id":"","thumbnail_src":""},{"slug":"mens-shoes","thumbnail_id":"","thumbnail_src":""},{"slug":"purses-and-handbags","thumbnail_id":"428","thumbnail_src":"https:\/\/websitedemos.net\/brandstore-05\/wp-content\/uploads\/sites\/313\/2018\/08\/black-over-the-shoulder-bag-1-free-img.jpg"},{"slug":"shirts-men","thumbnail_id":"","thumbnail_src":""},{"slug":"shirts-women","thumbnail_id":"","thumbnail_src":""},{"slug":"shoes-men","thumbnail_id":"","thumbnail_src":""},{"slug":"women","thumbnail_id":"","thumbnail_src":""},{"slug":"womens-jeans","thumbnail_id":"","thumbnail_src":""},{"slug":"womens-shirts","thumbnail_id":"","thumbnail_src":""}],"custom_logo":"https:\/\/websitedemos.net\/brandstore-05\/wp-content\/uploads\/sites\/313\/2018\/08\/logo-free-img.png","nav_menu_locations":{"primary":"main-menu"},"show_on_front":"page","page_on_front":"Homepage","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"elementor_container_width":null,"elementor_cpt_support":null,"elementor_css_print_method":null,"elementor_default_generic_fonts":null,"elementor_disable_color_schemes":null,"elementor_disable_typography_schemes":null,"elementor_editor_break_lines":null,"elementor_exclude_user_roles":null,"elementor_global_image_lightbox":null,"elementor_page_title_selector":null,"elementor_scheme_color":null,"elementor_scheme_color-picker]":null,"elementor_scheme_typography":null,"elementor_space_between_widgets":null,"elementor_stretched_section_container":null,"elementor_load_fa4_shim":null,"elementor_active_kit":null,"woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":"yes","woocommerce_enable_checkout_login_reminder":"no","woocommerce_enable_signup_and_login_from_checkout":"no","woocommerce_enable_myaccount_registration":"no","woocommerce_registration_generate_username":"no","wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Inserted - Post 736 - attachment - logo-free-img
+Imported - Widgets {"sidebar-1":{"woocommerce_product_search-1":[],"woocommerce_product_categories-1":{"title":"Range of Products","orderby":"order","dropdown":0,"count":1,"hierarchical":1,"show_children_only":1,"hide_empty":1,"max_depth":""},"woocommerce_price_filter-1":[],"woocommerce_layered_nav-1":{"title":"Filter by color","attribute":"color","display_type":"list","query_type":"or"},"woocommerce_layered_nav-2":{"title":"Filter by size","attribute":"size","display_type":"list","query_type":"or"}},"advanced-footer-widget-1":{"nav_menu-1":{"title":"Quick Links","nav_menu":"quick-links"}},"advanced-footer-widget-2":{"nav_menu-2":{"title":"For Her","nav_menu":"for-her"}},"advanced-footer-widget-3":{"nav_menu-3":{"title":"For Him","nav_menu":"for-him"}},"advanced-footer-widget-4":{"woocommerce_products-1":{"title":"Featured Products","number":2,"show":"featured","orderby":"rand","order":"desc","hide_free":1,"show_hidden":0}},"astra-woo-shop-sidebar":{"woocommerce_product_search-2":{"title":""},"woocommerce_product_categories-2":{"title":"Product Categories","orderby":"name","dropdown":0,"count":1,"hierarchical":1,"show_children_only":0,"hide_empty":1,"max_depth":""},"woocommerce_price_filter-2":[],"woocommerce_layered_nav-3":{"title":"Filter by Color","attribute":"color","display_type":"list","query_type":"or"}}}
+Complete 
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'RedCarpet' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Page - for Gutenberg ---- "733"
+---- Processing WordPress Page - for Gutenberg ---- "732"
+---- Processing WordPress Page - for Gutenberg ---- "731"
+---- Processing WordPress Page - for Gutenberg ---- "38"
+---- Processing WordPress Posts / Pages - for "Brizy" ----
+---- Processing MISC ----
+Post ID: 31
+Post ID: 30
+Post ID: 29
+Post ID: 28
+Post ID: 522
+Post ID: 523
+Post ID: 521
+Post ID: 519
+Post ID: 517
+Post ID: 516
+Batch Process Complete!

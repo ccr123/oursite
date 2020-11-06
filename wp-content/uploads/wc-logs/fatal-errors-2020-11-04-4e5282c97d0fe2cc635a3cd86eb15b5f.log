@@ -1,0 +1,26 @@
+2020-11-04T02:38:28+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\xampp\htdocs\oursite\wp-content\plugins\color-filters\Functions\Update_Admin_Databases.php:96
+Stack trace:
+#0 C:\xampp\htdocs\oursite\wp-content\plugins\color-filters\Functions\Update_Content.php(21): EWD_UWCF_Add_Size()
+#1 C:\xampp\htdocs\oursite\wp-includes\class-wp-hook.php(287): EWD_UWCF_Update_Content('')
+#2 C:\xampp\htdocs\oursite\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\oursite\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\oursite\wp-settings.php(546): do_action('init')
+#5 C:\xampp\htdocs\oursite\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\oursite\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\oursite\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\oursite\wp-content\plugins\color-filters\Functions\Update_Admin_Databases.php on line 96
+
+2020-11-04T02:40:22+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in C:\xampp\htdocs\oursite\wp-content\plugins\color-filters\Functions\Update_Admin_Databases.php:96
+Stack trace:
+#0 C:\xampp\htdocs\oursite\wp-content\plugins\color-filters\Functions\Update_Content.php(21): EWD_UWCF_Add_Size()
+#1 C:\xampp\htdocs\oursite\wp-includes\class-wp-hook.php(287): EWD_UWCF_Update_Content('')
+#2 C:\xampp\htdocs\oursite\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\oursite\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\oursite\wp-settings.php(546): do_action('init')
+#5 C:\xampp\htdocs\oursite\wp-config.php(90): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\oursite\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\oursite\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\oursite\wp-content\plugins\color-filters\Functions\Update_Admin_Databases.php on line 96
+
